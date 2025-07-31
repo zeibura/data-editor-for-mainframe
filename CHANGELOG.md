@@ -1,5 +1,16 @@
 # Changelog
 All notable changes to the Data Editor For Mainframe extension are documented in this file.
+## [1.1.0] - 2025-07-31
+
+#### Changed
+- Readme update
+
+#### Added
+- Option to connect via Zowe API Mediation Layer.
+- MFA and SSO enabled via Zowe Explorer.
+
+#### Fixed
+- HTTPS support for Server URL.
 
 ## [1.0.0] - 2022-04-20
 
